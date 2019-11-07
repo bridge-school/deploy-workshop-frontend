@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi I wrote a feature! And then I wrote _another_ feature!
+          Hi I wrote a feature! And then I wrote _another_ feature! And then a third feature!
         </p>
         <a
           className="App-link"
